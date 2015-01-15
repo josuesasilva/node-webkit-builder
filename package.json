@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/mllrsohn/node-webkit-builder.git"
+    "url": "git://github.com/josuesasilva/node-webkit-builder.git"
   },
   "bin": {
     "nwbuild": "./bin/nwbuild"
   },
   "author": {
-    "name": "Steffen Müller"
+    "name": "Josue Santos"
   },
   "license": "MIT",
   "bugs": {
